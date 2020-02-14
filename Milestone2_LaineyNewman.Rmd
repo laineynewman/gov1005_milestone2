@@ -1,5 +1,5 @@
 ---
-title: "milestone2"
+title: "Milestone 2"
 author: "Lainey Newman"
 date: "2/14/2020"
 output: html_document
@@ -9,22 +9,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Analysis of Tanner Gildea's Final Project, Spring 2019
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Tanner's project, entitled "The Story of the 2020 Democratic Primary, as Told Through Twitter" caught my interest because it attempts to understand how democratic political candidates are using Twitter, a relatively new campaign tool but something that has become a big deal in politics due to President Trump's Twitter tactics. It appears that Tanner scraped the Twitter accounts of 12 major Democratic political candidates. I thought he did a good job allowing his audience to visualize the frequency with which each candidate tweeted. Tanner did a really good job with the Sentiment Analysis and Key Words sections. These sections give the audience a clear sense of *how* these candidates were using Twitter (either negatively or positively, what emotions they were conveying, and what words they were using in tweets).
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+The things I think Tanner could have done better are mainly centered around clarity and communication. On the [summary statistics page](https://wtannergildea.shinyapps.io/2020-Dems_2/), I think it would've been really helpful for each of the candidates to have been assigned a score for the frequency with which they use Twitter and how much they rely on it to communicate to their base. The numbers in the table at the bottom don't really help me understand the comparative usage of Twitter among the candidates. Additionally, on the same page, it would've been helpful to have a caption for the "# of Bins" tab on the left hand side under the title. I did not know what this meant, and I was somewhat confused when I clicked on it as to what it changed in the graph.
 
-```{r cars}
-summary(cars)
-```
+## Analysis of John Ball's Final Project, Fall 2018
 
-## Including Plots
+John Ball's final Gov 1005 project was entitled "Comedy and Mental Illness" and it investigated whether there is a relationship between being depressed and having a mental health illness such as depression. One thing I thought John did really well was his explanation of his project. When I looked at the homepage for his project, I knew exactly what he was trying to do. It is also impressive that he administered the survey to 289 comedians. John concluded that "it is clear that a large proportion of comedians use comedy - aware of it or not - to directly counter the symptoms of mental illness." He communicates clearly throughout his project.
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Some of the weaknesses of the project are as follows. On the [Big Five Personality Types](https://john-ball.shinyapps.io/Comedy_and_Mental_Illness/) page, the screenshot of the control variable comparison is small and unclear. I can tell it's a screenshot because a word under the table is underlined in red as if it is spelled wrong, and when you click and drag it the whole picture moves. Additionally, some of the graph labels could have been worded clearer, such as "Self-Rated Enjoyability of Joke-Telling Versus Depression Levels." Overall though, I thought this was a really impressive project that clearly collected a lot of original data.
